@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\bin\Debug\SmithNumbers.exe.config
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\bin\Debug\SmithNumbers.exe
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\bin\Debug\SmithNumbers.pdb
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\obj\Debug\SmithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\obj\Debug\SmithNumbers.exe
+C:\Users\damla\Desktop\Projects\SmithNumbers\SmithNumbers\obj\Debug\SmithNumbers.pdb
